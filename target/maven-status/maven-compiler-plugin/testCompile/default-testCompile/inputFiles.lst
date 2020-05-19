@@ -1,0 +1,10 @@
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/testdata/Helpers.java
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/pojo/AddPlace.java
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/stepdefinitions/StepsDefinition.java
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/testdata/Specifications.java
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/stepdefinitions/Hooks.java
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/testdata/APIResources.java
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/testdata/TestDataBuild.java
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/bdd/TestRunner.java
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/pojo/Location.java
+/Users/igindin/RestAssuredLearning/APIFramework/src/test/java/pojo/DeletePlace.java
